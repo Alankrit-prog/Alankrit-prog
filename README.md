@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Alankrit sahai.
+- 👀 I’m interested in exploring new things in my field of computer science.
+- 🌱 I’m currently learning CSE with specialization in artificial engineering and machine learning.
+- 💞️ I’m looking to collaborate on projects on web developement, data science and machine learning.
+- 📫 My email is alankrit54321@gmail.com or as6145@srmist.edu.in
